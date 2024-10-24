@@ -1,4 +1,4 @@
-package com.budget_tracker_app
+package com.budget.tracker
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
